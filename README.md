@@ -1,5 +1,7 @@
 # SturdyBunny
-Mechanical modifications for ERCF MMU to improve robustness and repeatability
+Mechanical modifications for ERCF MMU to improve robustness and repeatability, while reducing the calibration requirements on the printed parts and opportunity for user error.
+
+<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/224241539-aa03bb39-65f1-4dc2-96fa-9cc9772d24f0.png">
 
 # Motivation
 
@@ -24,6 +26,7 @@ My goals with this project can be summarised below:
 
 The changes to the design can be summarised as followed:
 - The gearbox, hinge and filament blocks are all secured to a 2020 aluminium extrusion, independent from eachother. This significantly improves the robuseness of the assembly, and is much more accomodating to printer calibration.
+- Filament support blocks have been removed, and instead a variation of the filament blocks have been added that include a bearing. The same rules apply as the standard ERCF, where every third filament block has a bearing.
 
 
 # Gallery
