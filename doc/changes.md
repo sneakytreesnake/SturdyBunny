@@ -1,13 +1,21 @@
-# SturdyBunny
-Mechanical modifications for ERCF MMU to improve robustness and repeatability
+# SturdyBunny Changes
+This page summarises the changes made to the original ERCF design.
 
-# Motivation
-I have had a number of problems with the standard ERCF release with regards to repeatability and overall robustness. I intend to remedy this by making hardware adjustments to the design, while keeping the core concept the same.
+# High Level Changes
+Direction
 
-# Features over standard release
-- Filament blocks are secured to a 2020 extrusion rail, rather than being clamped by threaded rods. This improves the stiffness signficiantly and prevents and twist along the filament blocks
+# Part Modifications
+### Filament Block
 
-# Gallery
+### Filament Block Bearing [Replacement for Filament Support Block]
+
+### Hinge
+
+### Gearbox Front
+
+### Support Foot
+
+### Gearbox Bottom
 
 <img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/219339445-99551fb0-b9c3-44d8-9530-d1575f7b84d0.png">
 
